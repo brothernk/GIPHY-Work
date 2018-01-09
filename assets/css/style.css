@@ -1,0 +1,22 @@
+body{
+	width:800px;
+	margin:auto;
+}
+
+form{
+	float:right;
+	font-family:"Open Sans Condensed";
+}
+
+button{
+	padding:10px;
+	margin:5px;
+	color:white;
+	background-color:black;
+	text-transform: uppercase;
+	font-family:"Open Sans Condensed";
+}
+
+h2{
+	font-family:"Passion One";
+}
